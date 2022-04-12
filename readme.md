@@ -1,6 +1,6 @@
 ##  Tes Git ##
 
 ...
-oke cek dulu
+oke cek dulu ya gais 
 
 ...
